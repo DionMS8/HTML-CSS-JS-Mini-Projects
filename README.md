@@ -1,6 +1,6 @@
 # Web-Dev-Mini-Projects 🗃
 
-## Table of contents
+## Table of Contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Project Titles](#mini-projects)
