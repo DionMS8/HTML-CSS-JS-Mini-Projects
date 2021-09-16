@@ -19,3 +19,4 @@ This repo contains various mini-projects that I have created while practicing fr
 ## Project Titles
 
 - Vaccine List CRUD App ✔
+- QR Code Generator ✔
