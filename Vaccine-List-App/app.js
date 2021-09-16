@@ -60,7 +60,7 @@ addForm.addEventListener("submit", (e) => {
 
   // ADDING TEXT CONTENT TO THE DOM ELEMENTS
   vaxName.textContent = value;
-  deleteBtn.textContent = "delete";
+  deleteBtn.textContent = "Delete";
 
   // ADDING CLASSES SO THAT THE CORRECT CSS STYLING IS APPLIED 
   vaxName.classList.add("name");

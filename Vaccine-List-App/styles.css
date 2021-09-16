@@ -1,7 +1,14 @@
+
+* {
+    box-sizing: border-box;
+}
+
 body{
     font-family: Tahoma;
     color: #444;
     letter-spacing: 1px;
+    background: linear-gradient(rgb(207, 128, 144), crimson);
+    height: 100vh;
 }
 
 h1, h2{
@@ -17,11 +24,13 @@ h1, h2{
     box-sizing: border-box;
     padding: 0 0 20px;
     overflow: hidden;
-    border: 1px solid lightgray;
+    border: 2px solid black;
+    background-color: rgb(253, 253, 182);
 }
 
+
 #page-banner{
-    background: #eee ;
+    background: rgb(15, 180, 144);
     padding: 10px 0;
 
 }
@@ -60,7 +69,7 @@ h1, h2{
 }
 
 #book-list li:hover{
-    border-color: #9361bf;
+    border-color: rgb(11, 139, 112);
 }
 
 .delete{
